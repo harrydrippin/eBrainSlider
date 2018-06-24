@@ -20,6 +20,10 @@ svg #symbol {
   fill: #2fc4f2;
 }
 
+#app {
+  margin-bottom: 30px;
+}
+
 #text {
   fill: #fff;
 }
@@ -73,4 +77,8 @@ svg #symbol {
 .factor-name {
   font-size: 20px;
   display: block;
+}
+
+#submit {
+  width: 100%;
 }
